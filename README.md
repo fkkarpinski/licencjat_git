@@ -7,3 +7,4 @@ for pharmaceutical data analysis" by R. Burbidge, M. Trotter, B. Buxton, S. Hold
 5. "Artificial intelligence and machine learning approaches for drug
 design: challenges and opportunities for the pharmaceutical
 industries" by Chandrabose Selvaraj, Ishwar Chandra, Sanjeev Kumar Singh, Molecular Diversity (2022) 26:1893–1913
+6. ECFP**
