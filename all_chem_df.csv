@@ -11,7 +11,7 @@ pics/8,cns,OCCN1CCN(CC/C=C2\c3ccccc3Sc3ccc(Cl)cc32)CC1,['cns']
 pics/9,antiinfective,C[C@@H]1CCC/C=C/[C@H]2C[C@@H](O)C[C@@H]2[C@@H](O)/C=C\C(=O)O1,['antiinfective']
 pics/10,cns,CCC=C(CCC)C(=O)O,['cns']
 pics/11,gastrointestinal cns cardio,CCCCCCC(C)(C)c1cc(O)c2c(c1)OC(C)(C)[C@@H]1CC=C(CO)C[C@@H]21,"['gastrointestinal', 'cns', 'cardio']"
-pics/12,antiinfective,C[C@H]1[C@@H](O)[C@H](C)/C=C/C=C\CC/C=C/C=C/C=C/C=C/C(O[C@@H]2O[C@@H](C)[C@H](O)[C@@H](N)[C@H]2O)CC2O[C@@](O)(CC(O)C(O)CCC(O)CC(O)CC(O)CC(=O)O[C@@H]1C)CC(O)C2C(=O)O,['antiinfective']
+pics/12,antiinfective,"target_tags = {""dermatologic"""," ""antiinflammatory""}"
 pics/13,antiinfective,CCCCCCCCCCCCCCCCCC[N+](C)(C)CCCCCCCCCCCCCCCCCC,['antiinfective']
 pics/14,antineoplastic,CCN=c1cc2oc3cc(NCC)c(C)cc3c(-c3ccccc3C(=O)OCC)c-2cc1C.[O-][Cl+3]([O-])([O-])O,['antineoplastic']
 pics/15,antineoplastic,COc1ccc(/C=C\c2cc(OC)c(OC)c(OC)c2)cc1O,['antineoplastic']
